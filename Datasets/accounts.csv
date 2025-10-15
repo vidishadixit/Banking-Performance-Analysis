@@ -1,0 +1,301 @@
+account_id,customer_id,account_type,balance,branch
+1001,180,Current,407732,Delhi_Main
+1002,26,Savings,382149,Bangalore_Center
+1003,64,Savings,7396,Hyderabad_North
+1004,187,Savings,89082,Bangalore_Center
+1005,184,Savings,417345,Bangalore_Center
+1006,59,Fixed Deposit,133322,Delhi_Main
+1007,109,Savings,137663,Delhi_Main
+1008,198,Savings,16303,Delhi_Main
+1009,121,Current,166633,Mumbai_West
+1010,33,Savings,338863,Chennai_South
+1011,181,Savings,254690,Mumbai_West
+1012,150,Savings,490324,Chennai_South
+1013,21,Savings,264820,Chennai_South
+1014,198,Savings,104616,Bangalore_Center
+1015,70,Savings,391309,Bangalore_Center
+1016,112,Current,91231,Chennai_South
+1017,4,Savings,274458,Chennai_South
+1018,94,Savings,24623,Mumbai_West
+1019,75,Current,203747,Mumbai_West
+1020,190,Savings,495042,Bangalore_Center
+1021,62,Current,463298,Delhi_Main
+1022,94,Savings,481840,Chennai_South
+1023,95,Savings,110228,Mumbai_West
+1024,152,Current,431346,Bangalore_Center
+1025,55,Savings,187828,Mumbai_West
+1026,137,Savings,364768,Chennai_South
+1027,131,Savings,162364,Chennai_South
+1028,31,Savings,378929,Hyderabad_North
+1029,40,Current,353350,Delhi_Main
+1030,36,Savings,74274,Hyderabad_North
+1031,152,Savings,138541,Bangalore_Center
+1032,6,Savings,58947,Mumbai_West
+1033,66,Current,158606,Bangalore_Center
+1034,75,Savings,199692,Chennai_South
+1035,4,Current,53874,Hyderabad_North
+1036,79,Savings,54708,Hyderabad_North
+1037,134,Current,79553,Hyderabad_North
+1038,118,Fixed Deposit,73344,Bangalore_Center
+1039,113,Current,316282,Chennai_South
+1040,94,Current,190374,Mumbai_West
+1041,179,Savings,52638,Mumbai_West
+1042,62,Savings,83249,Bangalore_Center
+1043,185,Savings,373009,Hyderabad_North
+1044,194,Savings,7719,Delhi_Main
+1045,79,Savings,158962,Bangalore_Center
+1046,136,Savings,475452,Bangalore_Center
+1047,26,Savings,434725,Chennai_South
+1048,179,Savings,47534,Mumbai_West
+1049,173,Current,97241,Bangalore_Center
+1050,44,Savings,417003,Bangalore_Center
+1051,133,Current,131209,Hyderabad_North
+1052,70,Current,447061,Hyderabad_North
+1053,154,Fixed Deposit,194004,Delhi_Main
+1054,118,Current,97124,Chennai_South
+1055,68,Current,96659,Delhi_Main
+1056,19,Fixed Deposit,169134,Hyderabad_North
+1057,20,Fixed Deposit,80713,Mumbai_West
+1058,113,Savings,223335,Hyderabad_North
+1059,140,Savings,493972,Chennai_South
+1060,47,Savings,458677,Hyderabad_North
+1061,1,Savings,80418,Chennai_South
+1062,90,Current,464888,Chennai_South
+1063,142,Current,133232,Chennai_South
+1064,64,Current,433048,Chennai_South
+1065,38,Savings,168038,Chennai_South
+1066,37,Current,470761,Mumbai_West
+1067,126,Current,411203,Delhi_Main
+1068,139,Current,173383,Bangalore_Center
+1069,100,Fixed Deposit,298719,Delhi_Main
+1070,77,Current,330996,Chennai_South
+1071,3,Savings,263722,Mumbai_West
+1072,161,Current,137079,Hyderabad_North
+1073,134,Savings,207053,Mumbai_West
+1074,178,Savings,81242,Chennai_South
+1075,10,Current,183589,Mumbai_West
+1076,5,Savings,34257,Mumbai_West
+1077,151,Current,485488,Chennai_South
+1078,138,Savings,440423,Mumbai_West
+1079,172,Current,149353,Bangalore_Center
+1080,130,Savings,328390,Bangalore_Center
+1081,13,Fixed Deposit,268579,Mumbai_West
+1082,168,Current,234947,Hyderabad_North
+1083,130,Savings,236758,Chennai_South
+1084,84,Savings,96357,Bangalore_Center
+1085,65,Fixed Deposit,162732,Hyderabad_North
+1086,63,Savings,403300,Mumbai_West
+1087,101,Savings,480413,Hyderabad_North
+1088,73,Savings,411723,Delhi_Main
+1089,17,Savings,208667,Bangalore_Center
+1090,9,Current,88807,Mumbai_West
+1091,143,Current,443755,Chennai_South
+1092,152,Savings,383097,Mumbai_West
+1093,38,Savings,143563,Chennai_South
+1094,163,Current,263778,Mumbai_West
+1095,94,Savings,186264,Hyderabad_North
+1096,95,Savings,478611,Hyderabad_North
+1097,49,Fixed Deposit,390941,Hyderabad_North
+1098,69,Current,331032,Delhi_Main
+1099,62,Current,78609,Chennai_South
+1100,188,Current,276221,Hyderabad_North
+1101,178,Savings,253512,Delhi_Main
+1102,78,Current,258973,Chennai_South
+1103,117,Savings,288097,Mumbai_West
+1104,120,Savings,475135,Delhi_Main
+1105,137,Savings,381826,Bangalore_Center
+1106,162,Savings,335033,Delhi_Main
+1107,76,Current,159893,Delhi_Main
+1108,35,Savings,435783,Chennai_South
+1109,1,Savings,120374,Mumbai_West
+1110,40,Savings,29860,Bangalore_Center
+1111,64,Savings,157267,Hyderabad_North
+1112,150,Current,82475,Hyderabad_North
+1113,60,Savings,489090,Delhi_Main
+1114,64,Current,354410,Chennai_South
+1115,93,Savings,157499,Chennai_South
+1116,72,Savings,367876,Hyderabad_North
+1117,11,Current,294227,Bangalore_Center
+1118,105,Savings,223118,Mumbai_West
+1119,14,Current,324516,Bangalore_Center
+1120,60,Savings,128786,Mumbai_West
+1121,30,Savings,442280,Hyderabad_North
+1122,35,Fixed Deposit,12813,Mumbai_West
+1123,165,Savings,36598,Chennai_South
+1124,5,Savings,262951,Delhi_Main
+1125,83,Current,98106,Delhi_Main
+1126,123,Savings,294226,Hyderabad_North
+1127,78,Current,296385,Chennai_South
+1128,154,Savings,232286,Bangalore_Center
+1129,62,Fixed Deposit,442785,Chennai_South
+1130,132,Current,16745,Delhi_Main
+1131,89,Current,293173,Delhi_Main
+1132,42,Fixed Deposit,149097,Chennai_South
+1133,89,Savings,237732,Chennai_South
+1134,146,Fixed Deposit,390539,Delhi_Main
+1135,40,Savings,150360,Bangalore_Center
+1136,72,Savings,94186,Hyderabad_North
+1137,39,Savings,404756,Hyderabad_North
+1138,104,Savings,364912,Chennai_South
+1139,14,Savings,218030,Hyderabad_North
+1140,32,Current,204950,Delhi_Main
+1141,179,Current,46846,Delhi_Main
+1142,125,Fixed Deposit,499364,Chennai_South
+1143,166,Savings,343076,Chennai_South
+1144,97,Current,153554,Chennai_South
+1145,23,Savings,290555,Bangalore_Center
+1146,63,Savings,449191,Hyderabad_North
+1147,143,Savings,458761,Chennai_South
+1148,153,Savings,345941,Mumbai_West
+1149,145,Current,319451,Mumbai_West
+1150,194,Savings,401309,Delhi_Main
+1151,53,Savings,475474,Hyderabad_North
+1152,104,Savings,289186,Chennai_South
+1153,104,Savings,57930,Mumbai_West
+1154,179,Savings,253656,Hyderabad_North
+1155,39,Fixed Deposit,442629,Delhi_Main
+1156,179,Savings,249459,Bangalore_Center
+1157,198,Savings,229695,Hyderabad_North
+1158,134,Savings,365027,Hyderabad_North
+1159,67,Current,300900,Bangalore_Center
+1160,135,Fixed Deposit,58268,Hyderabad_North
+1161,179,Current,437430,Delhi_Main
+1162,200,Current,217943,Delhi_Main
+1163,42,Savings,263916,Bangalore_Center
+1164,192,Savings,426818,Chennai_South
+1165,15,Fixed Deposit,189403,Mumbai_West
+1166,111,Current,53901,Chennai_South
+1167,157,Current,367130,Hyderabad_North
+1168,33,Current,199488,Mumbai_West
+1169,155,Current,168268,Bangalore_Center
+1170,164,Current,395530,Bangalore_Center
+1171,157,Fixed Deposit,272770,Mumbai_West
+1172,38,Fixed Deposit,143496,Delhi_Main
+1173,185,Current,280001,Mumbai_West
+1174,97,Current,246531,Hyderabad_North
+1175,155,Savings,251693,Delhi_Main
+1176,183,Current,418198,Bangalore_Center
+1177,33,Savings,475177,Mumbai_West
+1178,196,Savings,400196,Chennai_South
+1179,86,Fixed Deposit,184362,Chennai_South
+1180,66,Savings,31431,Hyderabad_North
+1181,10,Savings,352120,Chennai_South
+1182,5,Savings,243360,Mumbai_West
+1183,123,Savings,349855,Mumbai_West
+1184,74,Current,31385,Chennai_South
+1185,97,Savings,436374,Mumbai_West
+1186,118,Savings,421235,Hyderabad_North
+1187,38,Savings,285783,Delhi_Main
+1188,141,Current,90530,Hyderabad_North
+1189,159,Current,235983,Hyderabad_North
+1190,47,Savings,288707,Mumbai_West
+1191,109,Savings,437557,Delhi_Main
+1192,180,Savings,382816,Mumbai_West
+1193,184,Current,403992,Bangalore_Center
+1194,15,Current,434660,Mumbai_West
+1195,157,Savings,467132,Mumbai_West
+1196,136,Savings,406927,Mumbai_West
+1197,5,Savings,210390,Delhi_Main
+1198,157,Current,350114,Mumbai_West
+1199,47,Savings,248373,Delhi_Main
+1200,68,Savings,352697,Chennai_South
+1201,76,Savings,166779,Bangalore_Center
+1202,173,Savings,175182,Delhi_Main
+1203,130,Current,197860,Chennai_South
+1204,155,Savings,87879,Delhi_Main
+1205,95,Current,437043,Delhi_Main
+1206,115,Current,243260,Bangalore_Center
+1207,164,Savings,403871,Hyderabad_North
+1208,36,Savings,312003,Hyderabad_North
+1209,26,Current,451841,Delhi_Main
+1210,43,Savings,319242,Mumbai_West
+1211,27,Savings,151323,Chennai_South
+1212,69,Fixed Deposit,127413,Mumbai_West
+1213,148,Savings,267670,Mumbai_West
+1214,11,Savings,335904,Delhi_Main
+1215,74,Savings,52837,Delhi_Main
+1216,104,Fixed Deposit,265550,Delhi_Main
+1217,38,Savings,278680,Delhi_Main
+1218,134,Savings,33541,Hyderabad_North
+1219,200,Savings,84083,Delhi_Main
+1220,23,Savings,449243,Hyderabad_North
+1221,47,Savings,39531,Hyderabad_North
+1222,90,Savings,275856,Delhi_Main
+1223,46,Savings,371245,Bangalore_Center
+1224,107,Savings,332599,Chennai_South
+1225,140,Savings,79744,Mumbai_West
+1226,141,Savings,257859,Hyderabad_North
+1227,104,Savings,134749,Chennai_South
+1228,190,Savings,272253,Bangalore_Center
+1229,111,Current,316412,Mumbai_West
+1230,104,Savings,236809,Mumbai_West
+1231,60,Savings,321759,Hyderabad_North
+1232,171,Savings,87503,Delhi_Main
+1233,100,Current,259346,Bangalore_Center
+1234,68,Current,427975,Hyderabad_North
+1235,133,Savings,90708,Bangalore_Center
+1236,120,Savings,196184,Delhi_Main
+1237,37,Fixed Deposit,107471,Delhi_Main
+1238,72,Savings,259225,Hyderabad_North
+1239,127,Savings,162661,Delhi_Main
+1240,106,Savings,166087,Chennai_South
+1241,92,Savings,165081,Mumbai_West
+1242,31,Fixed Deposit,350453,Hyderabad_North
+1243,122,Current,393590,Bangalore_Center
+1244,137,Savings,198118,Chennai_South
+1245,51,Savings,373805,Hyderabad_North
+1246,29,Fixed Deposit,162215,Delhi_Main
+1247,40,Current,11154,Delhi_Main
+1248,41,Current,157876,Delhi_Main
+1249,11,Fixed Deposit,439904,Delhi_Main
+1250,151,Fixed Deposit,69288,Bangalore_Center
+1251,1,Current,56195,Chennai_South
+1252,46,Savings,287725,Mumbai_West
+1253,101,Savings,450864,Bangalore_Center
+1254,149,Current,297231,Bangalore_Center
+1255,90,Savings,186002,Mumbai_West
+1256,110,Current,169053,Mumbai_West
+1257,164,Savings,74298,Delhi_Main
+1258,182,Savings,313311,Bangalore_Center
+1259,57,Savings,211376,Hyderabad_North
+1260,1,Savings,441624,Mumbai_West
+1261,63,Fixed Deposit,44499,Mumbai_West
+1262,182,Current,392960,Chennai_South
+1263,55,Current,450485,Hyderabad_North
+1264,115,Current,174631,Hyderabad_North
+1265,168,Savings,250198,Mumbai_West
+1266,143,Savings,472535,Delhi_Main
+1267,149,Savings,247997,Chennai_South
+1268,175,Savings,493533,Hyderabad_North
+1269,53,Savings,101347,Mumbai_West
+1270,137,Savings,315931,Hyderabad_North
+1271,180,Savings,302632,Chennai_South
+1272,57,Fixed Deposit,341585,Chennai_South
+1273,117,Current,210735,Bangalore_Center
+1274,154,Savings,27431,Mumbai_West
+1275,169,Current,328825,Chennai_South
+1276,35,Current,199555,Bangalore_Center
+1277,63,Savings,127720,Bangalore_Center
+1278,25,Current,54153,Hyderabad_North
+1279,90,Current,273512,Hyderabad_North
+1280,75,Savings,425640,Bangalore_Center
+1281,38,Savings,379504,Hyderabad_North
+1282,130,Savings,181076,Chennai_South
+1283,135,Savings,482085,Delhi_Main
+1284,162,Savings,224724,Chennai_South
+1285,91,Current,379899,Bangalore_Center
+1286,17,Savings,61985,Bangalore_Center
+1287,128,Savings,317213,Chennai_South
+1288,171,Fixed Deposit,319470,Hyderabad_North
+1289,187,Current,113737,Hyderabad_North
+1290,108,Savings,217133,Bangalore_Center
+1291,179,Savings,159470,Mumbai_West
+1292,182,Savings,234465,Hyderabad_North
+1293,152,Current,55861,Chennai_South
+1294,25,Savings,343041,Hyderabad_North
+1295,199,Savings,217977,Chennai_South
+1296,180,Fixed Deposit,132118,Bangalore_Center
+1297,198,Savings,335721,Hyderabad_North
+1298,88,Current,201713,Chennai_South
+1299,161,Fixed Deposit,14078,Bangalore_Center
+1300,177,Savings,423219,Mumbai_West
