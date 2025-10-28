@@ -1,4 +1,4 @@
-### Banking Analytics Dashboard
+# Banking Analytics Dashboard
 
 ## Overview:
 This project analyzes customer deposits, loan performance, and risk KPIs using advanced SQL queries and an interactive Tableau dashboard.
@@ -11,7 +11,7 @@ This project analyzes customer deposits, loan performance, and risk KPIs using a
 
 3. Risk identification in loan portfolios
 
-# Tech Stack: SQL | Tableau | Excel
+### Tech Stack: SQL | Tableau | Excel
 
 ## Key Insights:
 
