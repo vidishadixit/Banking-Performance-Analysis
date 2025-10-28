@@ -1,9 +1,9 @@
-###Banking Analytics Dashboard
+### Banking Analytics Dashboard
 
-##Overview:
+## Overview:
 This project analyzes customer deposits, loan performance, and risk KPIs using advanced SQL queries and an interactive Tableau dashboard.
 
-##Objectives:
+## Objectives:
 
 1. Customer segmentation based on income and balance
 
@@ -11,9 +11,9 @@ This project analyzes customer deposits, loan performance, and risk KPIs using a
 
 3. Risk identification in loan portfolios
 
-#Tech Stack: SQL | Tableau | Excel
+# Tech Stack: SQL | Tableau | Excel
 
-##Key Insights:
+## Key Insights:
 
 1. Deposits grew 15% YoY with most growth in high-income segments
 
@@ -21,7 +21,7 @@ This project analyzes customer deposits, loan performance, and risk KPIs using a
 
 3. Branches in metro cities outperform rural branches by 30%
 
-##Project Files:
+## Project Files:
 
 sql/ – SQL scripts for analysis
 
